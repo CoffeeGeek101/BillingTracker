@@ -6,8 +6,8 @@ import { Binary, Calendar, Home, LogOut, Presentation, User2 } from 'lucide-reac
 const Navbar = () => {
   return (
     <div
-    style={{boxShadow:'1px 1px 20px 1px #4400ff43'}}
-    className='flex flex-col justify-between bg-slate-900/30  basis-4/12 border-[1px] border-[#4400ff46] rounded-3xl p-5 text-white'>
+    style={{boxShadow:'1px 1px 20px 1px #4400ff27'}}
+    className='flex flex-col justify-between bg-slate-900/30  basis-4/12 border-[1px] border-white/20 rounded-3xl p-5 text-white'>
         <div className='flex flex-col items-center gap-12'>
             <p className='text-2xl font-bold'>Bill<span className='text-violet-500 drop-shadow-lg'>You</span>.</p>
             <div className='flex flex-col items-center gap-3'>
